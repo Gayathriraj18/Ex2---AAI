@@ -22,7 +22,8 @@ Step 7: Print the results.<br>
 
 
 ## Output :
-<Show the results>
+
+![image](https://github.com/Gayathriraj18/Ex2---AAI/assets/94154854/4d48f3eb-771a-4f71-9ffb-9b266863bd75)
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
